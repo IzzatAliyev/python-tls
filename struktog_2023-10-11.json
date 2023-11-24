@@ -1,0 +1,8 @@
+{"id":"ef5d0ad3-0f97-5ee6-b003-0dd40247","type":"InsertNode","followElement":{"id":"f798c7ab-0c70-45ce-fff7-5907a72d",
+"type":"InputNode","text":"gefahrendeKm","followElement":{"id":"6ebfc138-2df3-d02e-d62e-27cb5c69",
+"type":"InsertNode","followElement":{"id":"e7250b55-0d29-577c-6ae3-3f9c4a53",
+"type":"InputNode","text":"verbrauchteLiter","followElement":{"id":"cc776494-8ec2-0e09-b475-de84d159",
+"type":"InsertNode","followElement":{"id":"2bf12ff4-84f1-c468-f4eb-00b0d5f5",
+"type":"TaskNode","text":"Berechnung: (verbrauchteLiter / gefahrendeKm) * 100",
+"followElement":{"id":"33e6f6a9-1edd-e30f-1617-11ebdfae","type":"InsertNode","followElement":{"id":"e014238b-8b82-c321-0acd-20c87b76","type":"OutputNode",
+"text":"result","followElement":{"id":"8ca40399-3f40-f44c-6be3-280e679c","type":"InsertNode","followElement":null}}}}}}}}}
